@@ -4,7 +4,7 @@ collection: publications
 #category: manuscripts
 excerpt: |
   We constrained cosmological models using MCMC methods based on an empirical relation
-for fast radio bursts.
+  for fast radio bursts.
 date: 2023-01-01
 #venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
