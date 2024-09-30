@@ -8,5 +8,5 @@ excerpt: |
   models for each class.
 venue: 'JCAP 07 (2022) 010'
 paperurl: 'https://doi.org/10.1088/1475-7516/2022/07/010'
-#citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+
 ---
