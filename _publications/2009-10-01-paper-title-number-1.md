@@ -1,7 +1,7 @@
 ---
 title: "Could Fast Radio Bursts Be Standard Candles?"
 collection: publications
-#category: manuscripts
+category: manuscripts
 excerpt: |
   We constrained cosmological models using MCMC methods based on an empirical relation
   for fast radio bursts.
