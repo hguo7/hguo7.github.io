@@ -1,7 +1,7 @@
 ---
 title: "A possible subclassification of fast radio bursts"
 collection: publications
-#category: conferences
+category: conferences
 excerpt: |
   Abstract: We compared the FRB observations with FRB simulations generated following the Star
   Formation History (SFH), and used this as a basis to classify the FRBs and analyze possible progenitor
