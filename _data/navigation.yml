@@ -18,7 +18,8 @@ main:
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    #url: /year-archive/
+    url: /_pages/about.md
     
   - title: "CV"
     url: /assets/Academic_CV_Hanyue_np.pdf
