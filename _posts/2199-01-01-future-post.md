@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I’m Hanyue Guo 👋
+Hi, I’m Hanyue Guo 
 
 I recently completed my Master of Physics at [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/), where my research focused on fast radio bursts (FRBs) and their applications in cosmology. I am passionate about cosmology, high-energy astrophysics, and using deep learning techniques in scientific research.
 
