@@ -17,8 +17,9 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /assets/Academic_CV_Hanyue_np.pdf
+  - title: "Research"
+    #url: /_posts/
+    #url: /assets/Academic_CV_Hanyue_np.pdf
     
   - title: "CV"
     url: /assets/Academic_CV_Hanyue_np.pdf
@@ -26,4 +27,4 @@ main:
   #- title: "Guide"
    # url: /markdown/
        #url: /year-archive/
-    #url: /_posts/
+   
