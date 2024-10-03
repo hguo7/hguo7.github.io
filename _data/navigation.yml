@@ -18,8 +18,8 @@ main:
     #url: /portfolio/
         
   - title: "Research"
-    url: /_posts/
-    url: /assets/Academic_CV_Hanyue_np.pdf
+    #url: /_posts/
+    url: /assets/Research.pdf
     
   - title: "CV"
     url: /assets/Academic_CV_Hanyue_np.pdf
