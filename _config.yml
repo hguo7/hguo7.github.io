@@ -211,12 +211,12 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: null
-      author_profile: false
-      read_time: false
-      comments: false
-      share: false
-      related: false
+      layout: minimal
+      #author_profile: false
+      #read_time: false
+      #comments: false
+      #share: false
+      #related: false
   # _pages
   - scope:
       path: ""
