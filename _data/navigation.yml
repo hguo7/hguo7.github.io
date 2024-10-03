@@ -19,7 +19,8 @@ main:
         
   - title: "Blog Posts"
     #url: /year-archive/
-    url: /_posts/
+    #url: /_posts/
+    url: /assets/Academic_CV_Hanyue_np.pdf
     
   - title: "CV"
     url: /assets/Academic_CV_Hanyue_np.pdf
